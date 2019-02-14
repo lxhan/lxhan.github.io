@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lxhan.github.io/projects/bandersnatch/</loc>
+    <lastmod>2019-02-14T12:18:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lxhan.github.io/projects/instabot/</loc>
+    <lastmod>2019-02-13T18:59:44+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lxhan.github.io/projects/mathbook/</loc>
+    <lastmod>2019-02-13T18:52:01+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lxhan.github.io/work/cemware/</loc>
     <lastmod>2019-02-13T14:09:14+09:00</lastmod>
   </url>
@@ -92,7 +107,7 @@
   
   <url>
     <loc>https://lxhan.github.io/</loc>
-    <lastmod>2019-02-13T14:09:14+09:00</lastmod>
+    <lastmod>2019-02-14T12:18:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
