@@ -1,0 +1,28 @@
+baseURL = "https://lxhan.github.io"
+languageCode = "en-us"
+title = "Hi there"
+theme = "sam"
+pygmentsStyle = "fruity"
+pygmentsCodefences = true
+publishDir = "../public"
+
+[params]
+    description = "Alex Han"
+    dateform = "Jan 02, 2006"
+    favicon = "favicon.ico"
+    homepage = "home"
+    galleryFolder = "images/"
+    clickablePhotos = false
+    footerText = "[Github](https://github.com/lxhan) | [CV](/work/test.pdf)"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "hello, my name is alex"
+
+[[params.mainMenu]]
+    link = "/work"
+    text = "experience"
+
+[[params.mainMenu]]
+    link = "/skills"
+    text = "skills"
