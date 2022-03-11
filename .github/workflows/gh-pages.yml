@@ -11,10 +11,14 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v3
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'v0.93.2+extended'
+      - name: Install latest Hugo
+        run: |
+          HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
+          mkdir tmp/ && cd tmp/
+          curl -sSL https://github.com/gohugoio/hugo/releases/download/${HUGO_VERSION}/hugo_extended_${HUGO_VERSION: -6}_Linux-64bit.tar.gz | tar -xvzf-
+          sudo mv hugo /usr/local/bin/
+          cd .. && rm -rf tmp/
+          hugo version
       - name: Build site
         run: hugo --minify
       - name: Deploy to gh-pages branch
