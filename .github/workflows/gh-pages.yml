@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Check out
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
       - name: Install latest Hugo
         run: |
           HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
@@ -23,7 +23,6 @@ jobs:
         run: hugo --minify
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
