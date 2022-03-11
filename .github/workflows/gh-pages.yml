@@ -10,11 +10,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Check out master and get private submodules
-        uses: actions/checkout@master
-        with:
-          submodules: recursive
-          fetch-depth: 1
-          token: ${{ secrets.PTOKEN }}
+        uses: actions/checkout@v3
       - name: Install latest Hugo
         run: |
           HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
