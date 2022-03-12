@@ -23,8 +23,8 @@ jobs:
         run: |
           sudo apt install nodejs
           node -v
-      - name: Install postcss
-        run: npm i -g postcss-cli
+      - name: Install postcss and autoprefixer
+        run: npm i -g postcss-cli autoprefixer
       - name: Build site
         run: hugo --minify --cleanDestinationDir
       - name: Deploy to gh-pages branch
