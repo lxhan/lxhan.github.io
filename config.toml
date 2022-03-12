@@ -13,7 +13,7 @@ publishDir = "../public"
     homepage = "home"
     galleryFolder = "images/"
     clickablePhotos = false
-    footerText = "[Github](https://github.com/lxhan) | [CV](/work/test.pdf)"
+    footerText = "[Github](https://github.com/lxhan)"
 
 [[params.mainMenu]]
     link = "/about"
