@@ -4,7 +4,7 @@ title = "Hi there"
 theme = "sam"
 pygmentsStyle = "fruity"
 pygmentsCodefences = true
-publishDir = "../public"
+publishDir = "./public"
 
 [params]
     description = "Alex Han"
