@@ -19,6 +19,12 @@ jobs:
           sudo mv hugo /usr/local/bin/
           cd .. && rm -rf tmp/
           hugo version
+      - name: Install node
+        run: |
+          sudo apt install nodejs
+          node -v
+      - name: Install postcss and autoprefixer
+        run: npm i -g postcss autoprefixer
       - name: Build site
         run: hugo --minify --cleanDestinationDir
       - name: Deploy to gh-pages branch
