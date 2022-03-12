@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "head.html" . }}
+    <title>{{ .Title | markdownify }}</title>
+  </head>
+
+  <body>
+    {{ with .Site.Params.videoBackground }}
+    <video class="video" autoplay muted preload loop playsinline>
+      {{ range .sources }}
+      <source src="{{ .source }}" type="{{ .type }}" poster="{{ .poster }}" />
+      {{ end }}
+    </video>
+    {{ with .overlay }}
+    <div id="overlay" style="background: {{ . | safeCSS }}"></div>
+    {{ end }} {{ end }}
+
+    <nav role="navigation" class="flex-container" id="splash">
+      {{ if .Site.Params.mainMenu }} {{ range .Site.Params.mainMenu }}
+      <a href="{{.link}}" class="big-link"> {{.text}} </a>
+      {{ end }} {{ else }} {{ range .Site.Sections }}
+      <a href="{{.RelPermalink}}" class="big-link">
+        {{.Title | markdownify}}
+      </a>
+      {{ end }} {{ end }}
+    </nav>
+    {{ $baffle := "js/baffle.min.js"}}
+    <script src="{{ $baffle | absURL }}"></script>
+    <script>
+      window.baffle('.big-link').reveal(500);
+    </script>
+  </body>
+</html>
