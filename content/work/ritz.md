@@ -13,7 +13,7 @@ to: "Mar 10, 2015"
 
 **Position: Fullstack developer**
 
-**Tech stack**
+**Tech stack:**
 
 - CentOS
 - XpressEngine

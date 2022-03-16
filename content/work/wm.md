@@ -13,7 +13,7 @@ to: "Nov 02, 2017"
 
 **Position: Backend developer**
 
-**Tech stack**
+**Tech stack:**
 
 - Python
 - PHP

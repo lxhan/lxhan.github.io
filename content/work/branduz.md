@@ -13,7 +13,9 @@ to: "Dec 28, 2014"
 
 **Position: Frontend developer**
 
-**Tech stack**
+**Website: [brand.uz](https://brand.uz)**
+
+**Tech stack:**
 
 - HTML/CSS
 - JavaScript (jQuery)

@@ -13,7 +13,7 @@ to: "Mar 04, 2016"
 
 **Position: Fullstack developer**
 
-**Tech stack**
+**Tech stack:**
 
 - PHP
 - OracleSQL
