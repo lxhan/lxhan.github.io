@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experience on Hi there</title><link>https://lxhan.github.io/work/</link><description>Recent content in Experience on Hi there</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Feb 2019 14:08:54 +0900</lastBuildDate><atom:link href="https://lxhan.github.io/work/index.xml" rel="self" type="application/rss+xml"/><item><title>Crave</title><link>https://lxhan.github.io/work/crave/</link><pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/crave/</guid><description> Food ordering service&amp;nbsp;¶ Location: Seoul, Korea
 Position: Backend developer
-Tech stack
+Website: craveup.com
+Tech stack:
 Node.js MongoDB TypeScript AWS</description></item><item><title>Techlabs</title><link>https://lxhan.github.io/work/techlabs/</link><pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/techlabs/</guid><description> Dating service&amp;nbsp;¶ Location: Seoul, Korea
 Position: Fullstack developer
-Tech stack
+Website: nextmatch.kr
+Tech stack:
 PHP MySQL TypeScript React.js AWS</description></item><item><title>Cemware</title><link>https://lxhan.github.io/work/cemware/</link><pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/cemware/</guid><description> Engineering Solution with Computing &amp;amp; Mathematics&amp;nbsp;¶ Location: Seoul, Korea
 Position: Fullstack developer
-Tech stack
+Website: cemware.com
+Tech stack:
 JavaScript TypeScript React.js Angular Vue.js Node.js Golang AWS</description></item><item><title>WM</title><link>https://lxhan.github.io/work/wm/</link><pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/wm/</guid><description> Web agency&amp;nbsp;¶ Location: Suwon, Korea
 Position: Backend developer
-Tech stack
+Tech stack:
 Python PHP MySQL</description></item><item><title>Bizhost</title><link>https://lxhan.github.io/work/bizhost/</link><pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/bizhost/</guid><description> Hosting service&amp;nbsp;¶ Location: Seoul, Korea
 Position: Backend developer
-Tech stack
+Website: bizhost.co.kr
+Tech stack:
 PHP MySQL</description></item><item><title>Two Number</title><link>https://lxhan.github.io/work/twonumber/</link><pubDate>Thu, 01 Jan 1970 00:33:36 +0000</pubDate><guid>https://lxhan.github.io/work/twonumber/</guid><description> Web agency&amp;nbsp;¶ Location: Seoul, Korea
 Position: Fullstack developer
-Tech stack
+Tech stack:
 PHP OracleSQL HTML/CSS JavaScript (jQuery)</description></item><item><title>Crim C&amp;M</title><link>https://lxhan.github.io/work/crim/</link><pubDate>Thu, 01 Jan 1970 00:33:35 +0000</pubDate><guid>https://lxhan.github.io/work/crim/</guid><description> Web agency&amp;nbsp;¶ Location: Suwon, Korea
 Position: Backend developer
-Tech stack
+Website: crim.co.kr
+Tech stack:
 CakePHP MySQL</description></item><item><title>Ritz Club</title><link>https://lxhan.github.io/work/ritz/</link><pubDate>Thu, 01 Jan 1970 00:33:34 +0000</pubDate><guid>https://lxhan.github.io/work/ritz/</guid><description> Web agency&amp;nbsp;¶ Location: Seoul, Korea
 Position: Fullstack developer
-Tech stack
+Tech stack:
 CentOS XpressEngine MySQL HTML/CSS JavaScript (jQuery)</description></item><item><title>Brand.uz</title><link>https://lxhan.github.io/work/branduz/</link><pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate><guid>https://lxhan.github.io/work/branduz/</guid><description> Internship and my first job at web agency&amp;nbsp;¶ Location: Tashkent, Uzbekistan
 Position: Frontend developer
-Tech stack
+Website: brand.uz
+Tech stack:
 HTML/CSS JavaScript (jQuery) PHP (custom engine) MySQL</description></item></channel></rss>
