@@ -7,7 +7,7 @@ from: "Aug 25, 2015"
 to: "Mar 04, 2016"
 ---
 
-## Web agency
+## Telecommunication company
 
 **Location: Seoul, Korea**
 
