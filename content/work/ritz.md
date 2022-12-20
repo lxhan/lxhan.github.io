@@ -9,9 +9,9 @@ to: "Mar 10, 2015"
 
 ## Web agency
 
-**Location: Seoul, Korea**
+**Location:** Seoul, Korea
 
-**Position: Fullstack developer**
+**Position:** Fullstack developer
 
 **What I did:**
 

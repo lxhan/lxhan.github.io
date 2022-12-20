@@ -9,13 +9,13 @@ to: "Feb 21, 2020"
 
 ## Engineering Solution with Computing & Mathematics
 
-**Location: Seoul, Korea**
+**Location:** Seoul, Korea
 
-**Position: Fullstack developer**
+**Position:** Fullstack developer
 
 **What I did:**
 
-- Collaboraed with KOFAC to create math learning tools for students.
+- Collaborated with [KOFAC](https://www.kofac.re.kr/main) to create math learning tools for students.
 - Assisted with moving backend from PHP to Golang for performance and high-load tolerance. 
 
 **Website: [cemware.com](https://cemware.com)**

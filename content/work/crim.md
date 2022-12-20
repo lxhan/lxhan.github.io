@@ -9,9 +9,9 @@ to: "Aug 05, 2015"
 
 ## Web agency
 
-**Location: Suwon, Korea**
+**Location:** Suwon, Korea
 
-**Position: Backend developer**
+**Position:** Backend developer
 
 **What I did:**
 

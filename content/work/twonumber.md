@@ -9,9 +9,9 @@ to: "Mar 04, 2016"
 
 ## Telecommunication company
 
-**Location: Seoul, Korea**
+**Location:** Seoul, Korea
 
-**Position: Fullstack developer**
+**Position:** Fullstack developer
 
 **What I did:**
 

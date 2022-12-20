@@ -9,9 +9,9 @@ to: "Nov 23, 2022"
 
 ## Food ordering service
 
-**Location: Seoul, Korea**
+**Location:** Seoul, Korea
 
-**Position: Backend developer**
+**Position:** Backend developer
 
 **What I did:**
 

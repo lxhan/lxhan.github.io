@@ -9,9 +9,9 @@ to: "Jan 04, 2017"
 
 ## Hosting service
 
-**Location: Seoul, Korea**
+**Location:** Seoul, Korea
 
-**Position: Backend developer**
+**Position:** Backend developer
 
 **What I did:**
 

@@ -9,15 +9,15 @@ to: "Sep 15, 2020"
 
 ## Dating service
 
-**Location: Seoul, Korea**
+**Location:** Seoul, Korea
 
-**Position: Fullstack developer**
+**Position:** Fullstack developer
 
 **What I did:**
 
 - Maintained legacy PHP backend for dating app.
 - Assisted with moving backend to Kotlin.
-- Developed dashboards to see service metrics. 
+- Developed dashboards for service metrics. 
 
 **Website: [nextmatch.kr](https://nextmatch.kr)**
 
