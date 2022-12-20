@@ -13,6 +13,11 @@ to: "Mar 04, 2016"
 
 **Position: Fullstack developer**
 
+**What I did:**
+
+- Developed frontend app for new users onboarding.
+- Assisted with moving existing backend codebase to custom framework.
+
 **Tech stack:**
 
 - PHP

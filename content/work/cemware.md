@@ -13,6 +13,11 @@ to: "Feb 21, 2020"
 
 **Position: Fullstack developer**
 
+**What I did:**
+
+- Collaboraed with KOFAC to create math learning tools for students.
+- Assisted with moving backend from PHP to Golang for performance and high-load tolerance. 
+
 **Website: [cemware.com](https://cemware.com)**
 
 **Tech stack:**

@@ -15,6 +15,11 @@ to: "Dec 28, 2014"
 
 **Website: [brand.uz](https://brand.uz)**
 
+**What I did:**
+
+- Created web appls for clients with different level of difficulty.
+- Improved load time for legacy projects.
+
 **Tech stack:**
 
 - HTML/CSS

@@ -13,6 +13,11 @@ to: "Jan 04, 2017"
 
 **Position: Backend developer**
 
+**What I did:**
+
+- Assisted with upgrade MySQL v4 to v5.
+- Assisted with upgrade PHP v4 to v5.
+
 **Website: [bizhost.co.kr](https://www.bizhost.co.kr)**
 
 **Tech stack:**

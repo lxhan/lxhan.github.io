@@ -13,6 +13,11 @@ to: "Nov 02, 2017"
 
 **Position: Backend developer**
 
+**What I did:**
+
+- Developed backend for client apps.
+- Created scraping scripts with Python.
+
 **Tech stack:**
 
 - Python

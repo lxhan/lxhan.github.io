@@ -13,6 +13,12 @@ to: "Mar 10, 2015"
 
 **Position: Fullstack developer**
 
+**What I did:**
+
+- Created web apps for wedding agencies.
+- Assisted with refactoring code.
+- Assisted with moving codebase from pure PHP to XpressEngine.
+
 **Tech stack:**
 
 - CentOS

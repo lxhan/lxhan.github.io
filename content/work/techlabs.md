@@ -13,6 +13,12 @@ to: "Sep 15, 2020"
 
 **Position: Fullstack developer**
 
+**What I did:**
+
+- Maintained legacy PHP backend for dating app.
+- Assisted with moving backend to Kotlin.
+- Developed dashboards to see service metrics. 
+
 **Website: [nextmatch.kr](https://nextmatch.kr)**
 
 **Tech stack:**

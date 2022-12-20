@@ -13,6 +13,12 @@ to: "Nov 23, 2022"
 
 **Position: Backend developer**
 
+**What I did:**
+
+- Designed and developed service architecture.
+- Fully refactored JS codebase to TypeScript.
+- Configure and manage services on AWS to deploy backend, using Docker, ECS, Lambda and CodePipeline.
+
 **Website: [craveup.com](https://craveup.com)**
 
 **Tech stack:**
