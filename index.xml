@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hi there</title><link>https://lxhan.github.io/</link><description>Recent content on Hi there</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lxhan.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Crave</title><link>https://lxhan.github.io/work/crave/</link><pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/crave/</guid><description> Food ordering service&amp;nbsp;¶ Location: Seoul, Korea
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hi there</title><link>https://lxhan.github.io/</link><description>Recent content on Hi there</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lxhan.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Crave</title><link>https://lxhan.github.io/work/crave/</link><pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/crave/</guid><description> Food ordering service&amp;nbsp;¶ Location: Seoul, Korea (remote)
 Position: Backend developer
 What I did:
 Designed and developed service architecture. Fully refactored JS codebase to TypeScript. Configure and manage services on AWS to deploy backend, using Docker, ECS, Lambda and CodePipeline. Website: craveup.com
@@ -8,7 +8,7 @@ Position: Fullstack developer
 What I did:
 Maintained legacy PHP backend for dating app. Assisted with moving backend to Kotlin. Developed dashboards for service metrics. Website: nextmatch.kr
 Tech stack:
-PHP MySQL TypeScript React.js AWS</description></item><item><title>Cemware</title><link>https://lxhan.github.io/work/cemware/</link><pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/cemware/</guid><description> Engineering Solution with Computing &amp;amp; Mathematics&amp;nbsp;¶ Location: Seoul, Korea
+PHP MySQL TypeScript React.js AWS Kotlin</description></item><item><title>Cemware</title><link>https://lxhan.github.io/work/cemware/</link><pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/cemware/</guid><description> Engineering Solution with Computing &amp;amp; Mathematics&amp;nbsp;¶ Location: Seoul, Korea
 Position: Fullstack developer
 What I did:
 Collaborated with KOFAC to create math learning tools for students. Assisted with moving backend from PHP to Golang for performance and high-load tolerance. Website: cemware.com
