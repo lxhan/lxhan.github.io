@@ -28,3 +28,4 @@ to: "Sep 15, 2020"
 - TypeScript
 - React.js
 - AWS
+- Kotlin

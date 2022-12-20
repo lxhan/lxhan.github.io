@@ -9,7 +9,7 @@ to: "Nov 23, 2022"
 
 ## Food ordering service
 
-**Location:** Seoul, Korea
+**Location:** Seoul, Korea (remote)
 
 **Position:** Backend developer
 
