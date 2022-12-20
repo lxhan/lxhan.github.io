@@ -6,12 +6,12 @@ Tech stack:
 Node.js MongoDB TypeScript AWS</description></item><item><title>Techlabs</title><link>https://lxhan.github.io/work/techlabs/</link><pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/techlabs/</guid><description> Dating service&amp;nbsp;¶ Location: Seoul, Korea
 Position: Fullstack developer
 What I did:
-Maintained legacy PHP backend for dating app. Assisted with moving backend to Kotlin. Developed dashboards to see service metrics. Website: nextmatch.kr
+Maintained legacy PHP backend for dating app. Assisted with moving backend to Kotlin. Developed dashboards for service metrics. Website: nextmatch.kr
 Tech stack:
 PHP MySQL TypeScript React.js AWS</description></item><item><title>Cemware</title><link>https://lxhan.github.io/work/cemware/</link><pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/cemware/</guid><description> Engineering Solution with Computing &amp;amp; Mathematics&amp;nbsp;¶ Location: Seoul, Korea
 Position: Fullstack developer
 What I did:
-Collaboraed with KOFAC to create math learning tools for students. Assisted with moving backend from PHP to Golang for performance and high-load tolerance. Website: cemware.com
+Collaborated with KOFAC to create math learning tools for students. Assisted with moving backend from PHP to Golang for performance and high-load tolerance. Website: cemware.com
 Tech stack:
 JavaScript TypeScript React.js Angular Vue.js Node.js Golang AWS</description></item><item><title>WM</title><link>https://lxhan.github.io/work/wm/</link><pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate><guid>https://lxhan.github.io/work/wm/</guid><description> Web agency&amp;nbsp;¶ Location: Suwon, Korea
 Position: Backend developer
@@ -37,7 +37,7 @@ What I did:
 Created web apps for wedding agencies. Assisted with refactoring code. Assisted with moving codebase from pure PHP to XpressEngine. Tech stack:
 CentOS XpressEngine MySQL HTML/CSS JavaScript (jQuery)</description></item><item><title>Brand.uz</title><link>https://lxhan.github.io/work/branduz/</link><pubDate>Thu, 01 Jan 1970 00:33:33 +0000</pubDate><guid>https://lxhan.github.io/work/branduz/</guid><description> Internship and my first job at web agency&amp;nbsp;¶ Location: Tashkent, Uzbekistan
 Position: Frontend developer
-Website: brand.uz
 What I did:
-Created web appls for clients with different level of difficulty. Improved load time for legacy projects. Tech stack:
+Created web apps for clients with different level of difficulty. Improved load time for legacy projects by rewriting JS and optimizing images. Assisted with integrating frontend in PHP custom engine. Website: brand.uz
+Tech stack:
 HTML/CSS JavaScript (jQuery) PHP (custom engine) MySQL</description></item></channel></rss>
