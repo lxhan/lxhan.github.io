@@ -15,8 +15,9 @@ to: "Nov 02, 2017"
 
 **What I did:**
 
-- Developed backend for client apps.
-- Created scraping scripts with Python.
+- Developed the backend infrastructure for client web applications, ensuring robust and scalable solutions that met project requirements and deadlines.
+- Utilized my expertise in Python and PHP to create efficient and reliable web scraping scripts, enabling the agency to efficiently gather valuable data and insights from a variety of sources.
+- Maintained and optimized database systems, utilizing MySQL to ensure optimal performance and accuracy.
 
 **Tech stack:**
 

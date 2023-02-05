@@ -15,9 +15,9 @@ to: "Aug 05, 2015"
 
 **What I did:**
 
-- Developed backend for all client web apps.
-- Created new DB schemas and maintained existing ones.
-- Was in charge of CI/CD.
+- Developed scalable and robust back-end solutions for web applications serving various clients.
+- Designed and implemented database schemas to support project requirements, while maintaining and optimizing existing databases.
+- Managed the CI/CD pipeline, ensuring timely delivery of projects to clients with high quality standards.
 
 **Website: [crim.co.kr](http://www.crim.co.kr)**
 

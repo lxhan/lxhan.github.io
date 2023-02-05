@@ -15,9 +15,9 @@ to: "Mar 10, 2015"
 
 **What I did:**
 
-- Created web apps for wedding agencies.
-- Assisted with refactoring code.
-- Assisted with moving codebase from pure PHP to XpressEngine.
+- Developed and delivered custom web applications for clients in the wedding industry, meeting project requirements and deadlines.
+- Contributed to the code refactoring process, resulting in improved performance, maintainability and overall project quality.
+- Collaborated with the development team in the migration of the codebase to XpressEngine, providing a modern and scalable platform for future projects.
 
 **Tech stack:**
 

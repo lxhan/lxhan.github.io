@@ -5,4 +5,4 @@ draft: false
 tags: ["skill", "code"]
 ---
 
-Mostly using for scripting and scraping.
+Proficient in using Python for scripting and web scraping tasks. 

@@ -15,8 +15,8 @@ to: "Jan 04, 2017"
 
 **What I did:**
 
-- Assisted with upgrade MySQL v4 to v5.
-- Assisted with upgrade PHP v4 to v5.
+- Contributed to the upgrade of the hosting service's PHP version from v4 to v5, ensuring compatibility with the latest technologies and improving performance.
+- Assisted in the upgrade of the MySQL version from v4 to v5, resulting in enhanced database management capabilities.
 
 **Website: [bizhost.co.kr](https://www.bizhost.co.kr)**
 

@@ -15,9 +15,9 @@ to: "Dec 28, 2014"
 
 **What I did:**
 
-- Created web apps for clients with different level of difficulty.
-- Improved load time for legacy projects by rewriting JS and optimizing images.
-- Assisted with integrating frontend in PHP custom engine.
+- Developed and delivered web applications for clients with varying complexity levels using HTML/CSS, JavaScript (jQuery), PHP and MySQL.
+- Improved performance of legacy projects by re-writing JavaScript code and optimizing images, leading to faster load times.
+- Assisted with the integration of front-end elements into a custom PHP framework, showcasing technical skills and versatility.
 
 **Website: [brand.uz](https://brand.uz)**
 
@@ -25,5 +25,5 @@ to: "Dec 28, 2014"
 
 - HTML/CSS
 - JavaScript (jQuery)
-- PHP (custom engine)
+- PHP
 - MySQL

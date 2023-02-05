@@ -5,4 +5,4 @@ draft: false
 tags: ["skill", "code"]
 ---
 
-Using for all personal projects, servers, bots etc.
+Proficient in Golang, with extensive experience in developing personal projects, servers, and bots utilizing the language.

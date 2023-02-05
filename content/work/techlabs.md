@@ -15,9 +15,9 @@ to: "Sep 15, 2020"
 
 **What I did:**
 
-- Maintained legacy PHP backend for dating app.
-- Assisted with moving backend to Kotlin.
-- Developed dashboards for service metrics. 
+- Successfully maintained the legacy PHP backend of a dating app, ensuring seamless user experiences.
+- Assisted in migrating the backend to Kotlin, leveraging my experience in multiple programming languages.
+- Developed data-driven dashboards to effectively monitor service metrics and improve overall performance.
 
 **Website: [nextmatch.kr](https://nextmatch.kr)**
 

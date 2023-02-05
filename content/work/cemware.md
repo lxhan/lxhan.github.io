@@ -15,8 +15,9 @@ to: "Feb 21, 2020"
 
 **What I did:**
 
-- Collaborated with [KOFAC](https://www.kofac.re.kr/main) to create math learning tools for students.
-- Assisted with moving backend from PHP to Golang for performance and high-load tolerance. 
+- Contributed to the development of math learning tools in collaboration with [KOFAC](https://www.kofac.re.kr/main) to improve students' academic performance.
+- Refactored backend architecture from PHP to Golang to increase performance and handle high-load tolerance, resulting in improved user experience.
+- Developed full-stack solutions using a variety of technologies including JavaScript, TypeScript, React.js, Angular, Vue.js, Node.js, Golang, and AWS.
 
 **Website: [cemware.com](https://cemware.com)**
 
